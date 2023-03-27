@@ -4,10 +4,6 @@ namespace Tennis
     {
         private Player _player1;
         private Player _player2;
-        private int m_score1 = 0;
-        private int m_score2 = 0;
-        private string player1Name;
-        private string player2Name;
 
         public TennisGame1(string player1Name, string player2Name)
         {
